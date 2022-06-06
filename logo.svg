@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Ebene_1"
+   viewBox="0 0 496.23083 78.86879"
+   version="1.1"
+   sodipodi:docname="db_em_rgb_100px.svg"
+   inkscape:version="1.1.2 (08b2f3d93c, 2022-04-05)"
+   width="496.23083"
+   height="78.86879"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs15">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect30968"
+       is_visible="true"
+       lpeversion="1" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview13"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     showgrid="false"
+     inkscape:zoom="1.5071429"
+     inkscape:cx="134.36019"
+     inkscape:cy="-26.20853"
+     inkscape:window-width="1852"
+     inkscape:window-height="1016"
+     inkscape:window-x="68"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Ebene_1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <style
+     id="style2">.st0{fill:#f01414}.st1{fill:#fff}</style>
+  <title
+     id="title4">db_em_rgb_100px</title>
+  <path
+     id="path6"
+     style="fill:#ffffff;fill-opacity:1"
+     class="st0"
+     d="m 133.65779,0 c -5.5,0 -10,4.5 -10,10 v 50 c 0,5.5 4.5,10 10,10 h 80 c 5.5,0 10,-4.499609 10,-10.099609 V 10 c 0,-5.5 -4.5,-10 -10,-10 z m 43.80078,12 h 19.09961 c 12.9,0 13.09961,10.199219 13.09961,11.199219 -0.1,5 -3.3,9.301172 -8,10.701172 8.3,1.8 9.69922,7.9 9.69922,11 0,12.9 -13.39922,12.90039 -17.69922,12.90039 h -16.19922 z m -40,0.09961 h 16.79883 c 11.9,0 18.40039,7.401172 18.40039,22.701172 0,13.2 -4.50039,22.99961 -18.40039,23.09961 h -16.79883 z m 51,7.09961 v 11 h 4.29883 c 3.8,0 6,-2.5 6,-5.5 0,-3.8 -2.00039,-5.5 -6.90039,-5.5 z m -40,0.101562 V 50.5 h 3.89844 c 5.8,0 9.20117,-4.700781 9.20117,-14.800781 0,-9.2 -1.00039,-16.398438 -10.90039,-16.398438 z m 39.89844,19.398437 V 50.5 h 4.5 c 1.8,0 7.40039,-3.91e-4 7.40039,-5.900391 0,-2.6 -1.39961,-5.90039 -7.09961,-5.90039 z" />
+  <metadata
+     id="metadata2425">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>db_em_rgb_100px</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:71.7279px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.7932"
+     x="-1.5062859"
+     y="64.816071"
+     id="text5081"><tspan
+       sodipodi:role="line"
+       id="tspan5079"
+       x="-1.5062859"
+       y="64.816071"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Oswald;-inkscape-font-specification:'Oswald Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:1.7932">Ask</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:71.7279px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.7932"
+     x="241.09528"
+     y="64.81012"
+     id="text5081-1"><tspan
+       sodipodi:role="line"
+       id="tspan5079-2"
+       x="241.09528"
+       y="64.81012"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Oswald;-inkscape-font-specification:'Oswald Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:1.7932">Anything</tspan></text>
+  <path
+     id="path31338"
+     style="fill:#ffffff;stroke-width:25.4;stroke-linejoin:round;stroke-dashoffset:55.88"
+     inkscape:transform-center-x="0.35626208"
+     inkscape:transform-center-y="-0.44756352"
+     d="m 168.15227,68.304096 -29.16215,16.186742 2.16184,-17.193154 z"
+     sodipodi:nodetypes="cccc" />
+</svg>
