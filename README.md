@@ -1,4 +1,4 @@
-![Logo](logo.png)
+![Logo](logo.svg)
 
 # Konzept
 “Ask DB Anything” ist ein Chatbot basierend auf Tweets der Deutschen Bahn. Ein Machine-Learning-Modell wurde mit diesen Tweets trainiert. Über eine Weboberfläche lassen sich Fragen stellen, für die das Modell eine möglichst passende Antwort finden soll.
